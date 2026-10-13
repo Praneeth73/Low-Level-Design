@@ -12,7 +12,6 @@ Please raise issues and pull requests for fixes and updates.
 2. [Event Bus](https://github.com/InterviewReady/Low-Level-Design/tree/main/distributed-event-bus)
 3. [Rate Limiter](https://github.com/InterviewReady/Low-Level-Design/tree/main/rate-limiter)
 4. [Service Orchestrator](https://github.com/InterviewReady/Low-Level-Design/tree/main/service-orchestrator)
-5. [Resume Tailor](resume-tailor) - AI agent with a web UI that tailors a resume to a job posting
 
 
 Checkout [InterviewReady](https://get.interviewready.io/) for more low level design explanations.
